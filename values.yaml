@@ -1,0 +1,6 @@
+# Default values for kube-chart.
+# This is a YAML-formatted file.
+# Declare variables to be passed into your templates.
+
+appName:
+  value: default
